@@ -1,0 +1,8 @@
+C:\Users\Guilherme\OneDrive\Documentos\Geral\Projetos\Mklink GUI\Mklink GUI\bin\Debug\Mklink GUI.exe.config
+C:\Users\Guilherme\OneDrive\Documentos\Geral\Projetos\Mklink GUI\Mklink GUI\bin\Debug\Mklink GUI.exe
+C:\Users\Guilherme\OneDrive\Documentos\Geral\Projetos\Mklink GUI\Mklink GUI\bin\Debug\Mklink GUI.pdb
+C:\Users\Guilherme\OneDrive\Documentos\Geral\Projetos\Mklink GUI\Mklink GUI\obj\Debug\Mklink GUI.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\OneDrive\Documentos\Geral\Projetos\Mklink GUI\Mklink GUI\obj\Debug\Mklink_GUI.MainForm.resources
+C:\Users\Guilherme\OneDrive\Documentos\Geral\Projetos\Mklink GUI\Mklink GUI\obj\Debug\Mklink GUI.csproj.GenerateResource.Cache
+C:\Users\Guilherme\OneDrive\Documentos\Geral\Projetos\Mklink GUI\Mklink GUI\obj\Debug\Mklink GUI.exe
+C:\Users\Guilherme\OneDrive\Documentos\Geral\Projetos\Mklink GUI\Mklink GUI\obj\Debug\Mklink GUI.pdb
